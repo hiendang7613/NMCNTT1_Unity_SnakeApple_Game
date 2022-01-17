@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu.unity
+    guid: 8bc860c1d6567ab429948cbf331c2e21
+  - enabled: 1
+    path: Assets/Scenes/Ingame/snake.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Guide/Guide.unity
+    guid: a152a9bbb06cc4142bf3081f50ef374a
+  - enabled: 1
+    path: Assets/Scenes/Info/Info.unity
+    guid: feff89b7621ab25479461011cd33548c
+  - enabled: 1
+    path: Assets/Scenes/GameOver/GameOver.unity
+    guid: 7be0f1dd56df69b44a9fb091e95febc6
+  m_configObjects: {}
